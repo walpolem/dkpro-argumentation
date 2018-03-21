@@ -1,4 +1,4 @@
-# DKPro Argumentation
+# Mark's DKPro Argumentation
 
 [![Maven Central](https://maven-badges.herokuapp.com/maven-central/org.dkpro.argumentation/dkpro-argumentation/badge.svg?style=flat)](http://maven-badges.herokuapp.com/maven-central/org.dkpro.argumentation/dkpro-argumentation)
 
